@@ -1,21 +1,19 @@
 const Counter = () => {
   return (
-    <article>
-      <p>
-        <div>
-          <span>02</span> days
-        </div>
-        <div>
-          <span>20</span> hours
-        </div>
-        <div>
-          <span>34</span> minutes
-        </div>
-        <div>
-          <span>09</span> seconds
-        </div>
-      </p>
-    </article>
+    <div>
+      <div>
+        <div>02</div> days
+      </div>
+      <div>
+        <div>20</div> hours
+      </div>
+      <div>
+        <div>34</div> minutes
+      </div>
+      <div>
+        <div>09</div> seconds
+      </div>
+    </div>
   );
 };
 
