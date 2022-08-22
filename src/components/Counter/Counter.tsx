@@ -20,5 +20,3 @@ const Counter = () => {
 };
 
 export default Counter;
-
-// 02 days 20 hours 34 minutes 09 seconds
