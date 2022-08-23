@@ -13,7 +13,7 @@ export default createGlobalStyle`
   @font-face {
     font-family: 'Oxanium';
     src: url(${OxaniumWoff2}) format('woff2'),
-         url(${OxaniumWoff}) format('woff');
+        url(${OxaniumWoff}) format('woff');
   }
 
   * {
