@@ -4,7 +4,7 @@ interface TimeUnitsBetween extends TimeUnits {
   total: number;
 }
 
-export const endOfTheWorld = new Date("2022-08-24T17:53:45Z");
+export const endOfTheWorld = new Date("04/12/2035");
 
 export const timeUnitsBetween = (
   startDate: Date,
